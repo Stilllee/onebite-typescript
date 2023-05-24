@@ -8,9 +8,9 @@ let user: {
 };
 
 let config: {
-  apiKey: string;
+  readonly apiKey: string;
 } = {
   apiKey: "MY API KEY",
 };
 
-config.apiKey = "hacked";
+// config.apiKey = "hacked";
