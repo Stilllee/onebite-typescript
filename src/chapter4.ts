@@ -42,6 +42,6 @@ type CountryNumberCodes = {
   Korea: number;
 };
 
-let countryNumberCodes: CountryNumberCodes = {
-  Korea: "ko",
-};
+// let countryNumberCodes: CountryNumberCodes = {
+//   Korea: "ko",
+// };
