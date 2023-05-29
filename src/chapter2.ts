@@ -24,5 +24,5 @@ const sub2: Operation2 = (a, b) => a - b;
 const multiply2: Operation2 = (a, b) => a * b;
 const divide2: Operation2 = (a, b) => a / b;
 
-add2();
+// add2();
 add2.name;
