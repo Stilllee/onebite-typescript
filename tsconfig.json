@@ -4,9 +4,7 @@
     "module": "ESNext",
     "outDir": "dist",
     "strict": true,
-    "moduleDetection": "force",
-    "allowJs": true
-    // "noImplicitAny": false
+    "moduleDetection": "force"
   },
   "ts-node": {
     "esm": true
